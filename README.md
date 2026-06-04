@@ -25,13 +25,14 @@
 
 ### ⚡ featured projects
 
-| Project | What it is | Stack |
+Repos to be public upon request
+
+| Some Projects | What it is | Stack |
 |---|---|---|
-| 🛰 **APSS Telemetry** | CubeSat firmware — sensor interfacing, data framing, downlink | `C` `ESP32` `UART` |
-| 🔑 **ASC_K3YCH41N** | PCB keychain / business card, on display via KiCanvas | `Altium` `JLCPCB` |
-| 🕐 **Retro Desk Clock** | Hardware desk clock with round TFT and custom UI | `C` `Pico 2W` `GC9A01A` |
+| 🔑 **ASC_K3YCH41N** | PCB keychain / business card | `Altium` |
+| 🕐 **Retro Desk Clock** | Hardware desk clock with round TFT and custom UI | `C` `Pico 2W`|
 | 🌍 **Desk Satellite** | Live 3D orientation via MPU-6050 → WebGL, no external deps | `WebGL` `ESP32` `I²C` |
-| 💰 **ECSA Budget Tool** | Club finance tracker handed over to future execs | `SvelteKit` `Supabase` `Netlify` |
+| 💰 **ECSA Budget Tool** | Club finance tracker | `SvelteKit` `Supabase` `Netlify` |
 
 ---
 
