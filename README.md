@@ -30,8 +30,8 @@ Repos to be public upon request
 | Some Projects | What it is | Stack |
 |---|---|---|
 | 🔑 **ASC_K3YCH41N** | PCB keychain / business card | `Altium` |
-| 🕐 **Retro Desk Clock** | Hardware desk clock with round TFT and custom UI | `C` `Pico 2W`|
-| 🌍 **Desk Satellite** | Live 3D orientation via MPU-6050 → WebGL, no external deps | `WebGL` `ESP32` `I²C` |
+| 🕐 **Retro Desk Clock** | Hardware desk clock with round TFT and custom UI | `C` `ESP32`|
+| 🌍 **Desk Satellite** | Live 3D orientation via MPU-6050 → WebGL, no external deps | `WebGL` `ESP32` |
 | 💰 **ECSA Budget Tool** | Club finance tracker | `SvelteKit` `Supabase` `Netlify` |
 
 ---
@@ -70,5 +70,4 @@ Repos to be public upon request
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ascsrirama&style=flat-square&color=3A86FF&label=profile+views" />
 </p>
