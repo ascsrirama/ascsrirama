@@ -30,8 +30,8 @@ Repos to be public upon request
 | Some Projects | What it is | Stack |
 |---|---|---|
 | 🔑 **ASC_K3YCH41N** | PCB keychain / business card | `Altium` |
-| 🕐 **Retro Desk Clock** | Hardware desk clock with round TFT and custom UI | `C` `ESP32`|
-| 🌍 **Flight Tracker** | Live 3D orientation via MPU-6050 → WebGL, no external deps | `WebGL` `ESP32` |
+| 🕐 **Desk Clock** | Hardware desk clock with round TFT and custom UI (In progress) | `C` `ESP32`|
+| 🌍 **Flight Tracker** | Live 3D orientation via MPU-6050 → WebGL, no external deps (IN PROGRESS) | `WebGL` `ESP32` |
 | 💰 **ECSA Budget Tool** | Club finance tracker | `SvelteKit` `Supabase` `Netlify` |
 
 ---
