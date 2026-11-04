@@ -16,7 +16,7 @@ Computer Systems Engineering @ University of Auckland
 <img src="assets/ui/h-biography.svg" width="100%" alt="[ BIOGRAPHY ]" />
 
 Computer Systems Eng student @ UoA. Into embedded systems, firmware, robotics & web dev.<br/>
-I like projects where hardware and software meet: custom PCBs, microcontrollers, and the tooling around them.
+
 
 <img src="assets/ui/divider.svg" width="100%" alt="" />
 
