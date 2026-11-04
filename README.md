@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="assets/asc-logo.svg" width="180" alt="ASC logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/asc-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/asc-logo-light.svg" />
+  <img src="assets/asc-logo-dark.svg" width="300" alt="ASC logo" />
+</picture>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=B6FF3B&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=B6FF3B&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
 
 <b>Sriramachandra Anumanchipalli</b> &nbsp;·&nbsp; <code>@ascsrirama</code><br/>
 Computer Systems Engineering @ University of Auckland
@@ -13,18 +15,20 @@ Computer Systems Engineering @ University of Auckland
 <img src="https://img.shields.io/badge/location-Auckland%2C%20NZ-B6FF3B?style=flat-square&logo=googlemaps&logoColor=black&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/class%20of-2028-7C5CBF?style=flat-square&labelColor=0d0d0d" />
 
-</div>
+<img src="assets/ui/divider.svg" width="100%" alt="" />
 
----
+<img src="assets/ui/h-biography.svg" width="100%" alt="[ BIOGRAPHY ]" />
 
-### `[ BIOGRAPHY ]`
-
-Computer Systems Eng student @ UoA. Into embedded systems, firmware, robotics & web dev.
+Computer Systems Eng student @ UoA. Into embedded systems, firmware, robotics & web dev.<br/>
 I like projects where hardware and software meet: custom PCBs, microcontrollers, and the tooling around them.
 
----
+<img src="assets/ui/divider.svg" width="100%" alt="" />
 
-### `[ CURRENTLY ]`
+<img src="assets/ui/h-currently.svg" width="100%" alt="[ CURRENTLY ]" />
+
+<table align="center">
+<tr>
+<td>
 
 ```text
 > status  : building
@@ -32,17 +36,38 @@ I like projects where hardware and software meet: custom PCBs, microcontrollers,
 > now     : web flight tracker + ASC_F1N4NC3
 ```
 
----
+</td>
+</tr>
+</table>
 
-### `[ FEATURED PROJECTS ]`
+<img src="assets/ui/divider.svg" width="100%" alt="" />
 
-| Project | What it is | Stack |
-|---|---|---|
-| 💰 **ASC_F1N4NC3** | Personal budget planner: payday-anchored budgets, spending forecasts and trend insights, glassmorphism UI with rotating dial navigation. *(in progress: income planner, bank CSV import, anomaly detection)* | `SvelteKit` `TypeScript` `Firebase` `Netlify` |
-| 🔑 **ASC_K3YCH41N** | PCB keychain / business card | `Altium` |
-| 🌍 **Flight Tracker** | Web-based flight tracker *(in progress)* | `JavaScript` `WebGL` |
+<img src="assets/ui/h-projects.svg" width="100%" alt="[ FEATURED PROJECTS ]" />
 
-> Repos are going public soon. Watch this space.
+<table align="center">
+<tr>
+<th>Project</th>
+<th>What it is</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td>💰&nbsp;<b>ASC_F1N4NC3</b></td>
+<td align="left">Personal budget planner: payday-anchored budgets, spending forecasts and trend insights, glassmorphism UI with rotating dial navigation. <i>(in progress: income planner, bank CSV import, anomaly detection)</i></td>
+<td><code>SvelteKit</code> <code>TypeScript</code> <code>Firebase</code> <code>Netlify</code></td>
+</tr>
+<tr>
+<td>🔑&nbsp;<b>ASC_K3YCH41N</b></td>
+<td align="left">PCB keychain / business card</td>
+<td><code>Altium</code></td>
+</tr>
+<tr>
+<td>🌍&nbsp;<b>Flight&nbsp;Tracker</b></td>
+<td align="left">Web-based flight tracker <i>(in progress)</i></td>
+<td><code>JavaScript</code> <code>WebGL</code></td>
+</tr>
+</table>
+
+<sub><i>&gt; Repos are going public soon. Watch this space.</i></sub>
 
 <!--
 When the repos are public, swap the table for live pin cards:
@@ -52,13 +77,13 @@ When the repos are public, swap the table for live pin cards:
 </a>
 -->
 
----
+<img src="assets/ui/divider.svg" width="100%" alt="" />
 
-### `[ TECHNOLOGIES & SKILLS ]`
+<img src="assets/ui/h-skills.svg" width="100%" alt="[ TECHNOLOGIES & SKILLS ]" />
 
-**Languages**
+<code>// Languages</code>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br/><sub>C</sub></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><sub>C++</sub></td>
@@ -73,9 +98,9 @@ When the repos are public, swap the table for live pin cards:
 </tr>
 </table>
 
-**Hardware & embedded**
+<code>// Hardware & embedded</code>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="80"><img src="https://cdn.simpleicons.org/stmicroelectronics/03A9F4" width="48" height="48" alt="STM32" /><br/><sub>STM32</sub></td>
 <td align="center" width="80"><img src="assets/icons/msp430.png" width="48" height="48" alt="MSP430" /><br/><sub>MSP430</sub></td>
@@ -90,9 +115,9 @@ When the repos are public, swap the table for live pin cards:
 </tr>
 </table>
 
-**Web & tooling**
+<code>// Web & tooling</code>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="SvelteKit" /><br/><sub>SvelteKit</sub></td>
 <td align="center" width="80"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br/><sub>Supabase</sub></td>
@@ -106,10 +131,14 @@ When the repos are public, swap the table for live pin cards:
 </tr>
 </table>
 
----
+<img src="assets/ui/divider.svg" width="100%" alt="" />
 
-### `[ SOCIAL MEDIA ]`
+<img src="assets/ui/h-social.svg" width="100%" alt="[ SOCIAL MEDIA ]" />
 
-<a href="https://github.com/ascsrirama"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ascsrirama"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/ascsrirama"><img src="https://img.shields.io/badge/-GITHUB-B6FF3B?style=for-the-badge&logo=github&logoColor=B6FF3B&labelColor=0d0d0d"/></a>
+<a href="https://www.linkedin.com/in/ascsrirama"><img src="https://img.shields.io/badge/-LINKEDIN-7C5CBF?style=for-the-badge&logo=linkedin&logoColor=7C5CBF&labelColor=0d0d0d"/></a>
+<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/-PORTFOLIO-B6FF3B?style=for-the-badge&logo=googlechrome&logoColor=B6FF3B&labelColor=0d0d0d"/></a>
+
+<img src="assets/ui/footer.svg" width="100%" alt="" />
+
+</div>

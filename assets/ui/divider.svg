@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="800" height="24">
+<defs>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7C5CBF" stop-opacity="0"/><stop offset=".5" stop-color="#7C5CBF"/><stop offset="1" stop-color="#B6FF3B"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#B6FF3B"/><stop offset=".5" stop-color="#7C5CBF"/><stop offset="1" stop-color="#7C5CBF" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.p{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g filter="url(#glow)">
+<rect x="40" y="11.25" width="330" height="1.5" fill="url(#l)"/>
+<rect x="430" y="11.25" width="330" height="1.5" fill="url(#r)"/>
+<path d="M400 4 L408 12 L400 20 L392 12Z" fill="none" stroke="#B6FF3B" stroke-width="1.5"/>
+<path d="M400 9 L403 12 L400 15 L397 12Z" fill="#B6FF3B" class="p"/>
+<rect x="376" y="11" width="10" height="2" fill="#B6FF3B"/><rect x="414" y="11" width="10" height="2" fill="#B6FF3B"/>
+</g>
+</svg>
