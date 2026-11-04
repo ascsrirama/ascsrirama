@@ -322,14 +322,6 @@
 <g class="t1" fill="#E6F4FF"><path d="M40 196 L40.72 200 L40 204 L39.28 200Z M36 200 L40 200.72 L44 200 L40 199.28Z"/><circle cx="40" cy="200" r="0.88"/></g>
 <g class="t2" fill="#E6F4FF"><path d="M520 350 L520.90 355 L520 360 L519.10 355Z M515 355 L520 355.90 L525 355 L520 354.10Z"/><circle cx="520" cy="355" r="1.10"/></g>
 </g>
-<circle cx="118" cy="96" r="16" fill="url(#mn)"/>
-<circle cx="118" cy="96" r="22" fill="url(#atmo)" opacity=".6"/>
-<ellipse cx="706" cy="352" rx="182" ry="36" fill="none" stroke="#00E5FF" stroke-width="1.2" opacity=".35" transform="rotate(-14 706 352)"/>
-<circle cx="706" cy="352" r="106" fill="url(#atmo)"/>
-<circle cx="706" cy="352" r="96" fill="url(#pl)"/>
-<circle cx="706" cy="352" r="96" fill="url(#plb)" opacity=".5"/>
-<path d="M524 352 A182 36 0 0 0 888 352" fill="none" stroke="#00E5FF" stroke-width="2" opacity=".55" transform="rotate(-14 706 352)"/>
-<path d="M548 352 A158 29 0 0 0 864 352" fill="none" stroke="#2F7DFF" stroke-width="1" opacity=".5" transform="rotate(-14 706 352)"/>
 <g filter="url(#gw)">
 <g class="ss1"><line x1="0" y1="0" x2="70" y2="-24" stroke="url(#sst)" stroke-width="1.6" stroke-linecap="round"/></g>
 <g class="ss2"><line x1="0" y1="0" x2="50" y2="-17" stroke="url(#sst)" stroke-width="1.2" stroke-linecap="round"/></g>
