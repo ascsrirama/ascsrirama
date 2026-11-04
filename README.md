@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/asc-logo.png" width="180" alt="ASC logo" />
+<img src="assets/asc-logo.svg" width="180" alt="ASC logo" />
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=B6FF3B&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
