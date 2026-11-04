@@ -1,73 +1,115 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=3A86FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+software+pcb+embedded+systems" alt="Typing SVG" />
+<div align="center">
+
+<img src="assets/asc-logo.png" width="180" alt="ASC logo" />
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=B6FF3B&center=true&vCenter=true&width=640&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <b>Computer Systems Engineering @ University of Auckland</b><br/>
-</p>
+<b>Sriramachandra Anumanchipalli</b> &nbsp;·&nbsp; <code>@ascsrirama</code><br/>
+Computer Systems Engineering @ University of Auckland
 
-<p align="center">
-  <a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/portfolio-ascsrirama.com-3A86FF?style=flat-square&logo=firefox&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/location-Auckland%2C%20NZ-00B4D8?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/year-penultimate-F59E0B?style=flat-square" />
-</p>
+<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/portfolio-ascsrirama.com-7C5CBF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d0d0d" /></a>
+<img src="https://img.shields.io/badge/location-Auckland%2C%20NZ-B6FF3B?style=flat-square&logo=googlemaps&logoColor=black&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/class%20of-2028-7C5CBF?style=flat-square&labelColor=0d0d0d" />
 
----
-
-### 🛰 currently
-
-```
-[●] Working on a firmware/hardware project
-```
-
+</div>
 
 ---
 
-### ⚡ featured projects
+### `[ BIOGRAPHY ]`
 
-Repos to be public upon request
+Computer Systems Eng student @ UoA. Into embedded systems, firmware, robotics & web dev.
+I like projects where hardware and software meet: custom PCBs, microcontrollers, and the tooling around them.
 
-| Some Projects | What it is | Stack |
+---
+
+### `[ CURRENTLY ]`
+
+```text
+> status  : building
+> focus   : firmware / hardware / pcb
+> now     : web flight tracker + ASC_F1N4NC3
+```
+
+---
+
+### `[ FEATURED PROJECTS ]`
+
+| Project | What it is | Stack |
 |---|---|---|
+| 💰 **ASC_F1N4NC3** | Personal budget planner: payday-anchored budgets, spending forecasts and trend insights, glassmorphism UI with rotating dial navigation. *(in progress: income planner, bank CSV import, anomaly detection)* | `SvelteKit` `TypeScript` `Firebase` `Netlify` |
 | 🔑 **ASC_K3YCH41N** | PCB keychain / business card | `Altium` |
-| 🕐 **Desk Clock** | Hardware desk clock with round TFT and custom UI (In progress) | `C` `ESP32`|
-| 🌍 **Flight Tracker** | Live 3D orientation via MPU-6050 → WebGL, no external deps (IN PROGRESS) | `WebGL` `ESP32` |
-| 💰 **ECSA Budget Tool** | Club finance tracker | `SvelteKit` `Supabase` `Netlify` |
+| 🌍 **Flight Tracker** | Web-based flight tracker *(in progress)* | `JavaScript` `WebGL` |
+
+> Repos are going public soon. Watch this space.
+
+<!--
+When the repos are public, swap the table for live pin cards:
+
+<a href="https://github.com/ascsrirama/REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ascsrirama&repo=REPO-NAME&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=B6FF3B&icon_color=7C5CBF&text_color=aaaaaa" />
+</a>
+-->
 
 ---
 
-### 🔧 stack
+### `[ TECHNOLOGIES & SKILLS ]`
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-8B008B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RPi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ATmega328P-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Altium-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-</p>
+**Languages**
+
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br/><sub>C</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/><sub>C++</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br/><sub>C#</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/><sub>Python</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub>Java</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/><sub>HTML</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br/><sub>Bash</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" /><br/><sub>MATLAB</sub></td>
+</tr>
+</table>
+
+**Hardware & embedded**
+
+<table>
+<tr>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/stmicroelectronics/03A9F4" width="48" height="48" alt="STM32" /><br/><sub>STM32</sub></td>
+<td align="center" width="80"><img src="assets/icons/msp430.png" width="48" height="48" alt="MSP430" /><br/><sub>MSP430</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" height="48" alt="ESP32" /><br/><sub>ESP32</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="48" height="48" alt="Pico" /><br/><sub>Pico</sub></td>
+<td align="center" width="80"><img src="assets/icons/altium.png" width="48" height="48" alt="Altium" /><br/><sub>Altium</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/platformio/F5822A" width="48" height="48" alt="PlatformIO" /><br/><sub>PlatformIO</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/intel/0099E5" width="48" height="48" alt="Quartus" /><br/><sub>Quartus</sub></td>
+<td align="center" width="80"><img src="assets/icons/atmega.png" width="48" height="48" alt="ATmega328P" /><br/><sub>ATmega328P</sub></td>
+<td align="center" width="80"><img src="assets/icons/ltspice.png" width="48" height="48" alt="LTspice" /><br/><sub>LTspice</sub></td>
+<td align="center" width="80"><img src="https://img.shields.io/badge/VHDL-8B008B?style=flat-square" alt="VHDL" /></td>
+</tr>
+</table>
+
+**Web & tooling**
+
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="SvelteKit" /><br/><sub>SvelteKit</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br/><sub>Supabase</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br/><sub>Firebase</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br/><sub>Spring Boot</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" /><br/><sub>Three.js</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br/><sub>Cloudflare</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br/><sub>Netlify</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub>Linux</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub>GitHub</sub></td>
+</tr>
+</table>
 
 ---
 
-### 🤝 find me
+### `[ SOCIAL MEDIA ]`
 
-<p>
-  <a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/website-ascsrirama.com-3A86FF?style=flat-square"/></a>
-  <a href="https://github.com/ascsrirama"><img src="https://img.shields.io/badge/github-ascsrirama-181717?style=flat-square&logo=github"/></a>
-</p>
-
-<p align="center">
-</p>
+<a href="https://github.com/ascsrirama"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ascsrirama"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
