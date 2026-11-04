@@ -2,25 +2,25 @@
 <title>Status: building. Focus: firmware / hardware / pcb. Now: web flight tracker + ASC_F1N4NC3</title>
 <defs></defs>
 <style>.sp{animation:sp 3s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<path d="M10 6 L774 6 L790 22 L790 202 L26 202 L10 186 L10 6Z" fill="#1A0E1C" stroke="#FF2E88" stroke-width="1.3"/>
-<rect x="4" y="40" width="4" height="120" fill="#FF2E88"/>
-<path d="M30 20 L382 20 L390 28 L390 50 L30 50 L30 20Z" fill="none" stroke="#FF2E88" stroke-width="1.2"/>
-<text x="44" y="40.5" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="16" font-weight="600" fill="#F4D9E6" letter-spacing="1">// STATUS SET</text>
-<path d="M362 30 V42 M358 38 L362 42 L366 38 M372 42 V30 M368 34 L372 30 L376 34" stroke="#FF2E88" stroke-width="1.4" fill="none"/>
-<text x="770" y="40" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9" fill="#B98AA3">UPTIME ▮▮▮▮▮▮▯ // LIVE</text>
+<path d="M10 6 L774 6 L790 22 L790 202 L26 202 L10 186 L10 6Z" fill="#081530" stroke="#2F7DFF" stroke-width="1.3"/>
+<rect x="4" y="40" width="4" height="120" fill="#2F7DFF"/>
+<path d="M30 20 L382 20 L390 28 L390 50 L30 50 L30 20Z" fill="none" stroke="#2F7DFF" stroke-width="1.2"/>
+<text x="44" y="40.5" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="16" font-weight="600" fill="#DCE8FF" letter-spacing="1">// STATUS SET</text>
+<path d="M362 30 V42 M358 38 L362 42 L366 38 M372 42 V30 M368 34 L372 30 L376 34" stroke="#2F7DFF" stroke-width="1.4" fill="none"/>
+<text x="770" y="40" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9" fill="#7F98C8">UPTIME ▮▮▮▮▮▮▯ // LIVE</text>
 <rect x="30" y="62" width="740" height="36" fill="#00E5FF" fill-opacity=".09"/>
 <rect x="30" y="62" width="5" height="36" fill="#00E5FF"/>
 <text x="50" y="85" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#00E5FF">&gt; STATUS</text>
-<text x="150" y="86" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="18" font-weight="600" fill="#F4D9E6" letter-spacing="1">BUILDING</text>
+<text x="150" y="86" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="18" font-weight="600" fill="#DCE8FF" letter-spacing="1">BUILDING</text>
 <path d="M744 72 L752 86 H736Z" fill="none" stroke="#00E5FF" stroke-width="1.6"/><rect x="743" y="78" width="2" height="4" fill="#00E5FF"/>
 <rect x="30" y="106" width="740" height="36" fill="#F5E663" fill-opacity=".09"/>
 <rect x="30" y="106" width="5" height="36" fill="#F5E663"/>
 <text x="50" y="129" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#F5E663">&gt; FOCUS</text>
-<text x="150" y="130" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="18" font-weight="600" fill="#F4D9E6" letter-spacing="1">FIRMWARE / HARDWARE / PCB</text>
+<text x="150" y="130" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="18" font-weight="600" fill="#DCE8FF" letter-spacing="1">FIRMWARE / HARDWARE / PCB</text>
 <rect x="737" y="117" width="14" height="14" fill="none" stroke="#F5E663" stroke-width="1.6"/><rect x="741" y="121" width="6" height="6" fill="#F5E663"/><rect x="737" y="114" width="1.5" height="3" fill="#F5E663"/><rect x="737" y="131" width="1.5" height="3" fill="#F5E663"/><rect x="742" y="114" width="1.5" height="3" fill="#F5E663"/><rect x="742" y="131" width="1.5" height="3" fill="#F5E663"/><rect x="747" y="114" width="1.5" height="3" fill="#F5E663"/><rect x="747" y="131" width="1.5" height="3" fill="#F5E663"/>
-<rect x="30" y="150" width="740" height="36" fill="#FF2E88" fill-opacity=".09"/>
-<rect x="30" y="150" width="5" height="36" fill="#FF2E88"/>
-<text x="50" y="173" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#FF2E88">&gt; NOW</text>
-<text x="150" y="174" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="18" font-weight="600" fill="#F4D9E6" letter-spacing="1">WEB FLIGHT TRACKER + ASC_F1N4NC3</text>
-<circle cx="744" cy="168" r="8" fill="none" stroke="#FF2E88" stroke-width="1.6"/><circle cx="744" cy="168" r="3" fill="none" stroke="#FF2E88" stroke-width="1.2"/><path d="M744 168 L751 164" stroke="#FF2E88" stroke-width="1.6" class="sp" style="transform-origin:744px 168px"/>
+<rect x="30" y="150" width="740" height="36" fill="#2F7DFF" fill-opacity=".09"/>
+<rect x="30" y="150" width="5" height="36" fill="#2F7DFF"/>
+<text x="50" y="173" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#2F7DFF">&gt; NOW</text>
+<text x="150" y="174" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="18" font-weight="600" fill="#DCE8FF" letter-spacing="1">WEB FLIGHT TRACKER + ASC_F1N4NC3</text>
+<circle cx="744" cy="168" r="8" fill="none" stroke="#2F7DFF" stroke-width="1.6"/><circle cx="744" cy="168" r="3" fill="none" stroke="#2F7DFF" stroke-width="1.2"/><path d="M744 168 L751 164" stroke="#2F7DFF" stroke-width="1.6" class="sp" style="transform-origin:744px 168px"/>
 </svg>

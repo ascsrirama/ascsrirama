@@ -3,10 +3,10 @@
 <defs></defs>
 <style>.pu{animation:pu 3s ease-in-out infinite}@keyframes pu{50%{fill-opacity:.2}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="10" y="2" width="22" height="3" fill="#00E5FF"/>
-<text x="10" y="20" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#F4D9E6">01</text>
+<text x="10" y="20" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#DCE8FF">01</text>
 <path d="M6 28 L232 28 L244 40 L244 66 L232 78 L6 78 L6 28Z" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-width="1.4" class="pu"/>
 <path d="M6 34 V72" stroke="#00E5FF" stroke-width="3"/>
 <text x="22" y="54" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="17" font-weight="700" fill="#00E5FF" letter-spacing="1.5">( GITHUB )</text>
-<text x="22" y="70" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9.5" fill="#F4D9E6" opacity=".75">github.com/ascsrirama</text>
+<text x="22" y="70" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9.5" fill="#DCE8FF" opacity=".75">github.com/ascsrirama</text>
 <path d="M226 70 L236 60 V70Z" fill="#00E5FF"/>
 </svg>

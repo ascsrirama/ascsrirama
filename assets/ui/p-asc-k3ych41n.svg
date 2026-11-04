@@ -2,16 +2,16 @@
 <title>ASC_K3YCH41N: Pcb keychain / business card.  Stack: Altium</title>
 <defs><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<path d="M26 4 L792 4 L792 96 L774 114 L8 114 L8 22Z" fill="#1A0E1C" stroke="#FF2E88" stroke-width="1.3"/>
-<path d="M8 78 V94" stroke="#FF2E88" stroke-width="4"/>
-<path d="M101.2 77.0 L70.0 95.0 L38.8 77.0 L38.8 41.0 L70.0 23.0 L101.2 41.0Z" fill="#FF2E88" fill-opacity=".08" stroke="#FF2E88" stroke-width="1.4"/>
-<path d="M95.1 73.5 L70.0 88.0 L44.9 73.5 L44.9 44.5 L70.0 30.0 L95.1 44.5Z" fill="none" stroke="#7A1745" stroke-width="1"/>
-<g fill="none" stroke="#FF2E88" stroke-width="1.6"><circle cx="63" cy="59.0" r="7"/><circle cx="63" cy="59.0" r="2.5"/><path d="M70 59.0 H85 M79 59.0 V65.0 M84 59.0 V64.0"/></g>
-<path d="M62 13.0 L70 8.0 L78 13.0 M62 105.0 L70 110.0 L78 105.0" fill="none" stroke="#FF2E88" stroke-width="1.2"/>
-<text x="128" y="40" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="24" font-weight="700" fill="#FF2E88" letter-spacing="1" filter="url(#g)">( ASC_K3YCH41N )</text>
+<path d="M26 4 L792 4 L792 96 L774 114 L8 114 L8 22Z" fill="#081530" stroke="#2F7DFF" stroke-width="1.3"/>
+<path d="M8 78 V94" stroke="#2F7DFF" stroke-width="4"/>
+<path d="M101.2 77.0 L70.0 95.0 L38.8 77.0 L38.8 41.0 L70.0 23.0 L101.2 41.0Z" fill="#2F7DFF" fill-opacity=".08" stroke="#2F7DFF" stroke-width="1.4"/>
+<path d="M95.1 73.5 L70.0 88.0 L44.9 73.5 L44.9 44.5 L70.0 30.0 L95.1 44.5Z" fill="none" stroke="#0F2A66" stroke-width="1"/>
+<g fill="none" stroke="#2F7DFF" stroke-width="1.6"><circle cx="63" cy="59.0" r="7"/><circle cx="63" cy="59.0" r="2.5"/><path d="M70 59.0 H85 M79 59.0 V65.0 M84 59.0 V64.0"/></g>
+<path d="M62 13.0 L70 8.0 L78 13.0 M62 105.0 L70 110.0 L78 105.0" fill="none" stroke="#2F7DFF" stroke-width="1.2"/>
+<text x="128" y="40" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="24" font-weight="700" fill="#2F7DFF" letter-spacing="1" filter="url(#g)">( ASC_K3YCH41N )</text>
 <text x="128" y="62" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="14" font-weight="600" fill="#00E5FF" letter-spacing="1.5">PCB KEYCHAIN / BUSINESS CARD</text>
-<rect x="742" y="18" width="14" height="10" fill="#7A1745"/><rect x="745" y="22" width="8" height="2" fill="#F4D9E6"/>
-<text x="762" y="27" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="10" fill="#B98AA3">+02</text>
+<rect x="742" y="18" width="14" height="10" fill="#0F2A66"/><rect x="745" y="22" width="8" height="2" fill="#DCE8FF"/>
+<text x="762" y="27" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="10" fill="#7F98C8">+02</text>
 <path d="M133 74 L183.6 74 L183.6 89 L178.6 94 L128 94 L128 79Z" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-width="1"/>
 <text x="155.8" y="88" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="11" fill="#00E5FF">Altium</text>
 </svg>

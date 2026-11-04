@@ -2,27 +2,27 @@
 <title>[ FEATURED PROJECTS ]</title>
 <defs><filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <style>.ga{animation:ga 5s infinite steps(1)}.gb{animation:gb 5s infinite steps(1)}@keyframes ga{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(-3px,1px)}91%{opacity:.85;transform:translate(2px,-1px)}93%{opacity:0}}@keyframes gb{0%,88%,100%{opacity:0;transform:none}90%{opacity:.7;transform:translate(3px,-1px)}92%{opacity:.7;transform:translate(-2px,1px)}94%{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<rect x="2" y="8" width="7" height="7" fill="#FF2E88"/>
-<rect x="14" y="2" width="20" height="18" fill="#FF2E88"/>
-<text x="24" y="15.5" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" font-weight="800" fill="#1A0E1C">4</text>
+<rect x="2" y="8" width="7" height="7" fill="#2F7DFF"/>
+<rect x="14" y="2" width="20" height="18" fill="#2F7DFF"/>
+<text x="24" y="15.5" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" font-weight="800" fill="#03091C">4</text>
 <text x="46" y="18" class="ga" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#00E5FF">[ FEATURED PROJECTS ]</text>
 <text x="46" y="18" class="gb" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#fff">[ FEATURED PROJECTS ]</text>
-<g filter="url(#g)"><text x="46" y="18" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#FF2E88">[ FEATURED PROJECTS ]</text></g>
-<path d="M2 32 H480 L488 40 H760 L768 32 H798" fill="none" stroke="#FF2E88" stroke-width="1.3"/>
-<rect x="2" y="30" width="60" height="4" fill="#FF2E88"/>
-<text x="490" y="54" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9" fill="#B98AA3">SEC.04 // PROJECTS.DB</text>
+<g filter="url(#g)"><text x="46" y="18" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#2F7DFF">[ FEATURED PROJECTS ]</text></g>
+<path d="M2 32 H480 L488 40 H760 L768 32 H798" fill="none" stroke="#2F7DFF" stroke-width="1.3"/>
+<rect x="2" y="30" width="60" height="4" fill="#2F7DFF"/>
+<text x="490" y="54" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9" fill="#7F98C8">SEC.04 // PROJECTS.DB</text>
 <rect x="700" y="46" width="4" height="8" fill="#00E5FF"/>
 <rect x="707" y="46" width="4" height="8" fill="#00E5FF"/>
 <rect x="714" y="46" width="4" height="8" fill="#00E5FF"/>
 <rect x="721" y="46" width="4" height="8" fill="#00E5FF"/>
 <rect x="728" y="46" width="4" height="8" fill="#00E5FF"/>
 <rect x="735" y="46" width="4" height="8" fill="#00E5FF"/>
-<rect x="742" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="749" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="756" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="763" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="770" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="777" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="784" y="46" width="4" height="8" fill="#7A1745"/>
-<rect x="791" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="742" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="749" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="756" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="763" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="770" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="777" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="784" y="46" width="4" height="8" fill="#0F2A66"/>
+<rect x="791" y="46" width="4" height="8" fill="#0F2A66"/>
 </svg>
