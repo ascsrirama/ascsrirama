@@ -2,7 +2,7 @@
 
 <img src="assets/ui/hero.svg" width="100%" alt="ASC logo over a neon city skyline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=2F7DFF&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=2F7DFF&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
 
 <a href="https://ascsrirama.com"><img src="assets/ui/identity.svg" width="100%" alt="Sriramachandra Anumanchipalli (@ascsrirama): Computer Systems Engineering @ University of Auckland. Auckland, NZ." /></a>
 
