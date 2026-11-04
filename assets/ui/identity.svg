@@ -15,6 +15,5 @@
 <rect x="742" y="96" width="6" height="10" fill="#03091C" class="bl"/>
 <path d="M30 140 H290 L298 132 H520 L528 140 H770" fill="none" stroke="#2F7DFF" stroke-width="1.2"/>
 <text x="34" y="158" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="10" fill="#7F98C8">LOCATION: AUCKLAND, NZ</text>
-<text x="306" y="158" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="10" fill="#00E5FF">CLASS OF 2028</text>
 <text x="770" y="158" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="10" fill="#7F98C8">ASCSRIRAMA.COM</text>
 </svg>
