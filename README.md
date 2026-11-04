@@ -1,19 +1,15 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/asc-logo-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/asc-logo-light.svg" />
-  <img src="assets/asc-logo-dark.svg" width="300" alt="ASC logo" />
-</picture>
+<img src="assets/ui/hero.svg" width="100%" alt="ASC logo over a neon city skyline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=B6FF3B&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=FF2E88&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
 
 <b>Sriramachandra Anumanchipalli</b> &nbsp;·&nbsp; <code>@ascsrirama</code><br/>
 Computer Systems Engineering @ University of Auckland
 
-<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/portfolio-ascsrirama.com-7C5CBF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d0d0d" /></a>
-<img src="https://img.shields.io/badge/location-Auckland%2C%20NZ-B6FF3B?style=flat-square&logo=googlemaps&logoColor=black&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/class%20of-2028-7C5CBF?style=flat-square&labelColor=0d0d0d" />
+<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/portfolio-ascsrirama.com-FF2E88?style=flat-square&logo=googlechrome&logoColor=00E5FF&labelColor=0A0E27" /></a>
+<img src="https://img.shields.io/badge/location-Auckland%2C%20NZ-00E5FF?style=flat-square&logo=googlemaps&logoColor=FF2E88&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/class%20of-2028-FF2E88?style=flat-square&labelColor=0A0E27" />
 
 <img src="assets/ui/divider.svg" width="100%" alt="" />
 
@@ -73,7 +69,7 @@ I like projects where hardware and software meet: custom PCBs, microcontrollers,
 When the repos are public, swap the table for live pin cards:
 
 <a href="https://github.com/ascsrirama/REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ascsrirama&repo=REPO-NAME&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=B6FF3B&icon_color=7C5CBF&text_color=aaaaaa" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ascsrirama&repo=REPO-NAME&theme=dark&bg_color=0A0E27&border_color=1E2A5A&title_color=00E5FF&icon_color=FF2E88&text_color=aaaaaa" />
 </a>
 -->
 
@@ -135,9 +131,9 @@ When the repos are public, swap the table for live pin cards:
 
 <img src="assets/ui/h-social.svg" width="100%" alt="[ SOCIAL MEDIA ]" />
 
-<a href="https://github.com/ascsrirama"><img src="https://img.shields.io/badge/-GITHUB-B6FF3B?style=for-the-badge&logo=github&logoColor=B6FF3B&labelColor=0d0d0d"/></a>
-<a href="https://www.linkedin.com/in/ascsrirama"><img src="https://img.shields.io/badge/-LINKEDIN-7C5CBF?style=for-the-badge&logo=linkedin&logoColor=7C5CBF&labelColor=0d0d0d"/></a>
-<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/-PORTFOLIO-B6FF3B?style=for-the-badge&logo=googlechrome&logoColor=B6FF3B&labelColor=0d0d0d"/></a>
+<a href="https://github.com/ascsrirama"><img src="https://img.shields.io/badge/-GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0E27"/></a>
+<a href="https://www.linkedin.com/in/ascsrirama"><img src="https://img.shields.io/badge/-LINKEDIN-FF2E88?style=for-the-badge&logo=linkedin&logoColor=FF2E88&labelColor=0A0E27"/></a>
+<a href="https://ascsrirama.com"><img src="https://img.shields.io/badge/-PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=0A0E27"/></a>
 
 <img src="assets/ui/footer.svg" width="100%" alt="" />
 
