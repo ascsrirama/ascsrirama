@@ -1,46 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 64" width="800" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 58" width="800" height="58">
 <title>[ FEATURED PROJECTS ]</title>
-<defs>
-<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#FF2E88"/><stop offset=".55" stop-color="#00E5FF"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></linearGradient>
-<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset=".5" stop-color="#0A0E27"/></linearGradient>
-<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<style>
-.t{font:700 20px 'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace;letter-spacing:3px}
-.n{font:800 15px 'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace}
-.a{animation:ga 5s infinite steps(1)}.b{animation:gb 5s infinite steps(1)}
-@keyframes ga{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(-3px,1px)}91%{opacity:.85;transform:translate(2px,-1px)}93%{opacity:0}}
-@keyframes gb{0%,88%,100%{opacity:0;transform:none}90%{opacity:.7;transform:translate(3px,-1px)}92%{opacity:.7;transform:translate(-2px,1px)}94%{opacity:0}}
-.f{animation:fl 5s infinite steps(1)}@keyframes fl{0%,89%,94%,100%{opacity:1}90%,92%{opacity:.55}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style>
-<path d="M0.5 10.5 L10.5 0.5 H789.5 L799.5 10.5 V53.5 L789.5 63.5 H10.5 L0.5 53.5Z" fill="url(#bg)" stroke="#1E2A5A"/>
-<path d="M0.5 10.5 L10.5 0.5 H60" fill="none" stroke="#FF2E88" stroke-width="2"/>
-<path d="M740 63.5 H789.5 L799.5 53.5" fill="none" stroke="#00E5FF" stroke-width="2"/>
-<g filter="url(#glow)"><path d="M18 16 H70 L78 24 V46 H18Z" fill="#FF2E88"/></g>
-<text x="46" y="37" text-anchor="middle" class="n" fill="#ffffff">03</text>
-<text x="96" y="39" class="t a" fill="#FF2E88">[ FEATURED PROJECTS ]</text>
-<text x="96" y="39" class="t b" fill="#ffffff">[ FEATURED PROJECTS ]</text>
-<g filter="url(#glow)"><text x="96" y="39" class="t f" fill="#00E5FF">[ FEATURED PROJECTS ]</text></g>
-<rect x="96" y="49" width="560" height="1.5" fill="url(#ln)"/>
-<rect x="668" y="20" width="3" height="18" fill="#FF2E88" opacity=".6"/>
-<rect x="673" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="676" y="20" width="2" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="680" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="683" y="20" width="4" height="18" fill="#FF2E88" opacity=".6"/>
-<rect x="689" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="692" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="695" y="20" width="3" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="700" y="20" width="2" height="18" fill="#FF2E88" opacity=".6"/>
-<rect x="704" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="707" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="710" y="20" width="2" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="714" y="20" width="4" height="18" fill="#FF2E88" opacity=".6"/>
-<rect x="720" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="723" y="20" width="2" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="727" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="730" y="20" width="3" height="18" fill="#FF2E88" opacity=".6"/>
-<rect x="735" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="738" y="20" width="1" height="18" fill="#00E5FF" opacity=".6"/>
-<rect x="741" y="20" width="2" height="18" fill="#00E5FF" opacity=".6"/>
+<defs><filter id="g" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.ga{animation:ga 5s infinite steps(1)}.gb{animation:gb 5s infinite steps(1)}@keyframes ga{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(-3px,1px)}91%{opacity:.85;transform:translate(2px,-1px)}93%{opacity:0}}@keyframes gb{0%,88%,100%{opacity:0;transform:none}90%{opacity:.7;transform:translate(3px,-1px)}92%{opacity:.7;transform:translate(-2px,1px)}94%{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="2" y="8" width="7" height="7" fill="#FF2E88"/>
+<rect x="14" y="2" width="20" height="18" fill="#FF2E88"/>
+<text x="24" y="15.5" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="12" font-weight="800" fill="#1A0E1C">4</text>
+<text x="46" y="18" class="ga" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#00E5FF">[ FEATURED PROJECTS ]</text>
+<text x="46" y="18" class="gb" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#fff">[ FEATURED PROJECTS ]</text>
+<g filter="url(#g)"><text x="46" y="18" font-family="'Rajdhani','Bahnschrift','DIN Alternate','DIN Condensed','Roboto Condensed','Arial Narrow',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#FF2E88">[ FEATURED PROJECTS ]</text></g>
+<path d="M2 32 H480 L488 40 H760 L768 32 H798" fill="none" stroke="#FF2E88" stroke-width="1.3"/>
+<rect x="2" y="30" width="60" height="4" fill="#FF2E88"/>
+<text x="490" y="54" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="9" fill="#B98AA3">SEC.04 // PROJECTS.DB</text>
+<rect x="700" y="46" width="4" height="8" fill="#00E5FF"/>
+<rect x="707" y="46" width="4" height="8" fill="#00E5FF"/>
+<rect x="714" y="46" width="4" height="8" fill="#00E5FF"/>
+<rect x="721" y="46" width="4" height="8" fill="#00E5FF"/>
+<rect x="728" y="46" width="4" height="8" fill="#00E5FF"/>
+<rect x="735" y="46" width="4" height="8" fill="#00E5FF"/>
+<rect x="742" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="749" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="756" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="763" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="770" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="777" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="784" y="46" width="4" height="8" fill="#7A1745"/>
+<rect x="791" y="46" width="4" height="8" fill="#7A1745"/>
 </svg>
