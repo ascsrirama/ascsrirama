@@ -1,30 +1,28 @@
 <div align="center">
 
-<img src="assets/ui/hero.svg" width="100%" alt="ASC logo over a neon city skyline" />
+<img src="assets/ui/hero.svg" width="100%" alt="ASC: neon ASCII logo over the Tāmaki Makaurau skyline at night" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=2F7DFF&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Rama+%F0%9F%91%8B;firmware+%C2%B7+software+%C2%B7+pcb+%C2%B7+embedded+systems" alt="Typing SVG" />
-
-<a href="https://ascsrirama.com"><img src="assets/ui/identity.svg" width="100%" alt="Sriramachandra Anumanchipalli (@ascsrirama): Computer Systems Engineering @ University of Auckland. Auckland, NZ." /></a>
+<a href="https://ascsrirama.com"><img src="assets/ui/identity.svg" width="100%" alt="Sriramachandra Anumanchipalli (Rama, ASC). hey, I'm Rama: firmware, software, PCB, embedded systems." /></a>
 
 <br/>
 
-<img src="assets/ui/h-biography.svg" width="100%" alt="[ BIOGRAPHY ]" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/h-biography-light.svg" /><img src="assets/ui/h-biography.svg" width="100%" alt="About" /></picture>
 
 Computer Systems Eng student @ UoA. Into embedded systems, firmware, robotics & web dev.<br/>
 
 
 <br/>
 
-<img src="assets/ui/h-currently.svg" width="100%" alt="[ CURRENTLY ]" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/h-currently-light.svg" /><img src="assets/ui/h-currently.svg" width="100%" alt="Currently" /></picture>
 
 <img src="assets/ui/currently.svg" width="100%" alt="Status: building. Focus: firmware / hardware / pcb. Now: web flight tracker + ASC_F1N4NC3." />
 
 <br/>
 
-<img src="assets/ui/h-projects.svg" width="100%" alt="[ FEATURED PROJECTS ]" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/h-projects-light.svg" /><img src="assets/ui/h-projects.svg" width="100%" alt="Work" /></picture>
 
 <img src="assets/ui/p-asc-f1n4nc3.svg" width="100%" alt="ASC_F1N4NC3: Personal budget planner: payday-anchored budgets, spending forecasts and trend insights, glassmorphism UI with rotating dial navigation. In progress: income planner, bank CSV import, anomaly detection. Stack: SvelteKit, TypeScript, Firebase, Netlify." />
-<img src="assets/ui/p-asc-k3ych41n.svg" width="100%" alt="ASC_K3YCH41N: PCB keychain / business card. Stack: Altium." />
+<img src="assets/ui/p-asc-k3ych41n.svg" width="100%" alt="ASC_K3YCH41N: a PCB keychain that doubles as a business card. Complete. Stack: Altium, PCB design." />
 <img src="assets/ui/p-flight-tracker.svg" width="100%" alt="Flight Tracker: Web-based flight tracker (in progress). Stack: JavaScript, WebGL." />
 
 <sub><i>&gt; Repos are going public soon. Watch this space.</i></sub>
@@ -33,15 +31,15 @@ Computer Systems Eng student @ UoA. Into embedded systems, firmware, robotics & 
 When the repos are public, swap the project cards for live pin cards:
 
 <a href="https://github.com/ascsrirama/REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ascsrirama&repo=REPO-NAME&theme=dark&bg_color=0A0E27&border_color=1E2A5A&title_color=00E5FF&icon_color=2F7DFF&text_color=aaaaaa" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ascsrirama&repo=REPO-NAME&theme=dark&bg_color=060B14&border_color=2A2359&title_color=FF4DA6&icon_color=5CE1FF&text_color=C0C2EC" />
 </a>
 -->
 
 <br/>
 
-<img src="assets/ui/h-skills.svg" width="100%" alt="[ TECHNOLOGIES & SKILLS ]" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/h-skills-light.svg" /><img src="assets/ui/h-skills.svg" width="100%" alt="Skills" /></picture>
 
-<img src="assets/ui/s-languages.svg" width="100%" alt="Languages" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/s-languages-light.svg" /><img src="assets/ui/s-languages.svg" width="100%" alt="Languages" /></picture>
 
 <table align="center">
 <tr>
@@ -58,7 +56,7 @@ When the repos are public, swap the project cards for live pin cards:
 </tr>
 </table>
 
-<img src="assets/ui/s-hardware.svg" width="100%" alt="Hardware & embedded" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/s-hardware-light.svg" /><img src="assets/ui/s-hardware.svg" width="100%" alt="Hardware & embedded" /></picture>
 
 <table align="center">
 <tr>
@@ -75,7 +73,7 @@ When the repos are public, swap the project cards for live pin cards:
 </tr>
 </table>
 
-<img src="assets/ui/s-web.svg" width="100%" alt="Web & tooling" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/s-web-light.svg" /><img src="assets/ui/s-web.svg" width="100%" alt="Web & tooling" /></picture>
 
 <table align="center">
 <tr>
@@ -93,12 +91,11 @@ When the repos are public, swap the project cards for live pin cards:
 
 <br/>
 
-<img src="assets/ui/h-social.svg" width="100%" alt="[ SOCIAL MEDIA ]" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/ui/h-social-light.svg" /><img src="assets/ui/h-social.svg" width="100%" alt="Contact" /></picture>
 
 <a href="https://github.com/ascsrirama"><img src="assets/ui/b-github.svg" width="250" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/ascsrirama"><img src="assets/ui/b-linkedin.svg" width="250" alt="LinkedIn" /></a>
 <a href="https://ascsrirama.com"><img src="assets/ui/b-portfolio.svg" width="250" alt="Portfolio" /></a>
 
-<img src="assets/ui/footer.svg" width="100%" alt="" />
 
 </div>
